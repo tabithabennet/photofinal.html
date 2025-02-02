@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Beach Photos</title>
+    <style>
+        body {
+            text-align: center;
+            background: #f4f4f4;
+        }
+        img {
+            width: 80%;
+            margin: 10px;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Beach Photos</h1>
+    <img src="IMG_9486.jpeg" alt="Beach Scene 1">
+    <img src="IMG_9488.jpeg" alt="Beach Scene 2">
+    <img src="IMG_9489.jpeg" alt="Beach Scene 3">
+</body>
+</html>
